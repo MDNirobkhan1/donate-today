@@ -1,0 +1,171 @@
+.header {
+    background-image: url('images/donation9.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    top: 0;
+    left: 0;
+}
+
+.main-content {
+    text-align: center;
+    color: rgb(238, 230, 247);
+    margin-top: 300px;
+    font-size: 25px;
+}
+.main-last-title{
+    color: darkgray;
+    font-family: 'Poppins';
+    
+}
+.button{
+    color: white;
+    background-color: coral;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    border: 0;
+}
+.text{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    
+}
+.text-item{
+    font-size: 70px;
+}
+
+
+.text-items{
+   color: gray;
+}
+.taka{
+    text-align:  center;
+    margin-top: 50px;
+}
+.taka-button{
+    background-color: gainsboro;
+    height: 110px;
+    width: 200px;
+    border: 0;
+    font-size: 40px;
+    font-style: initial;
+    color: darkgray;
+    line-height: 42px;
+     
+}
+.others{
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+    
+}
+/* section  */
+.skill-container{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    gap: 20px;
+}
+.skill{
+    background: #FAFAD2;
+    top: 1595.5px;
+    border-radius: 8px;
+
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+}
+.skill-description {
+    color: #757575;
+    font-size: 20px;
+}
+.main-nav{
+    display: flex;
+}
+.nav-items{
+    display: flex;
+    padding-left: 150px;
+}
+.nav-content{
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 20px;
+    padding: 10px;
+    line-break: auto;
+    
+}
+.nav-title{
+    font-size: 40px;
+    margin: 100px;
+}
+.nav-image{
+ margin-top: 20px;
+}
+.nav-description{
+    
+    padding-left: 100px;
+}
+.btn-parimari{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.last-nav{
+    display: flex;
+}
+.last-nav-contant{
+    display: flex;
+    padding-left: 250px;
+    margin-top: 40px;
+}
+.last-nav-title{
+    font-size: 40px;
+    margin-left: 60px;
+}
+.nav-description{
+    color: #757575;
+    font-size: 20px;
+    margin-right: 400px;
+}
+ .btn-parimari-last{
+    padding-left: 400px;
+    margin-top: 250px;
+ }
+
+ 
+ .input-content{
+    background-color: rgb(204, 144, 123);
+    height: 100px;
+   margin-right: 500px;
+    margin-left: 500px;
+    height: 200px;
+
+ }
+ .flex-container > div {
+    background-color: #f1f1f1;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    margin-left: 200px;
+    gap: 0;
+  }
+  .flex-container{
+    display: flex;
+    background-color: aqua;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .color{
+    background-color: black;
+    color: beige;
+    text-align: center;
+}
